@@ -30,9 +30,3 @@ Bot:   "✅ Order placed! Arriving in 35 minutes."
 * Swiggy MCP APIs
 * Claude AI (Anthropic)
 * WhatsApp Business API
-
-📌 Status
-🚧 Currently in development — built as part of the Swiggy Builders Club program.
-
-👨‍💻 Author
-Open to feedback and collaboration. Reach out via GitHub issues.
